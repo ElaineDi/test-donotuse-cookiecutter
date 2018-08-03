@@ -48,7 +48,7 @@ except ImportError:
     pass
 
 # =====================================================================
-
+print('this is cookiecutter update')
 def download_data():
     '''
     Downloads the data for this script into a pandas DataFrame.
